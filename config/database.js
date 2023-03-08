@@ -4,7 +4,8 @@ const db = new Sequelize({
     host: 'localhost',
     port: 5432,
     username: 'postgres',
-    password: 'postgres'
+    password: 'postgres',
+    database: 'movies'
 });
 // Menguji koneksi ke database
 db
