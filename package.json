@@ -1,0 +1,28 @@
+{
+  "name": "MVC-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridhopujiono/MVC-NodeJS-Express-Postgres-Ejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridhopujiono/MVC-NodeJS-Express-Postgres-Ejs/issues"
+  },
+  "homepage": "https://github.com/ridhopujiono/MVC-NodeJS-Express-Postgres-Ejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-form-data": "^2.0.22",
+    "pg": "^8.10.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.29.1"
+  }
+}
